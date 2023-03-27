@@ -12,10 +12,12 @@ Simple API built using ASP.NET Core and MongoDB dockerized to demonstrate how to
 
 Run the following commands, in sequence, inside the application directory:
 
+#### To create docker images:
 ```
 docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
 ```
 
+#### To run API locally:
 ```
 dotnet restore
 dotnet run
