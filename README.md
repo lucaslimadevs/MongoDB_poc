@@ -1,9 +1,7 @@
-# ASP.NET Core API + MongoDB
+# ASP.NET Core API + MongoDB + Docker
 Proof of Concept of a Web API, using MongoDB and Docker.
 
 Simple API built using ASP.NET Core and MongoDB dockerized to demonstrate how to easily implement the MongoDB in .NET applications.
-
-## Frameworks and Libraries
 
 | :placard: showcase.Dev |     |
 | -------------  | --- |
