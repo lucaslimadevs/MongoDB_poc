@@ -5,7 +5,7 @@ Simple API built using ASP.NET Core and MongoDB dockerized to demonstrate how to
 
 ## Frameworks and Libraries
 - [ASP.NET Core 6](https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-6.0);
-- [SQLite](https://www.mongodb.com/docs/atlas/) (for testing purposes);
+- [MongoDB](https://www.mongodb.com/docs/atlas/) (for testing purposes);
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) (API documentation).
 
 ## How to Test
